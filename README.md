@@ -14,7 +14,7 @@ So through this repository I plan to return that favour to many of you, who are 
 
 Migrating to a linux environment typically involved the following stages for me:
 
-1. Dual booting OS - "To dual boot or not to" 
+1. Dual booting OS - "To dual boot or not to?" 
 2. Installation of drivers
 3. Dependencies and essential packages download
 4. Virtual Environments
