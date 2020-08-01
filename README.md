@@ -34,10 +34,10 @@ Migrating to a linux environment typically involved the following stages for me:
 7. Learning to code and understand code better
 8. Share this repo with your friends if you find this useful..contribute if you have more to add..
 ### Shell scripts to automate installations:
-2. Installing drivers
-3. Download the most essential software packages and dependencies on the system after installation.
-4. Set up crucial virtual environments for various needs of yours(Julia, Python, ROOT, etc)
-5. Installing various softwares/ packages for scientific computing  
+1. Installing drivers
+2. Download the most essential software packages and dependencies on the system after installation.
+3. Set up crucial virtual environments for various needs of yours(Julia, Python, ROOT, etc)
+4. Installing various softwares/ packages for scientific computing  
 
 
 
