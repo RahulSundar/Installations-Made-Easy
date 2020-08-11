@@ -27,12 +27,14 @@ Migrating to a linux environment typically involved the following stages for me:
 
 
 ## Contents:
+
 ### Easy to follow instructions:
 1. Easy to follow instructions and links to trustworthy websites for linux OS installation
 (Focussing mainly on Ubuntu for now. Later, shall cover other distributions as well)
 6. Choosing the right IDE
 7. Learning to code and understand code better
-8. Share this repo with your friends if you find this useful..contribute if you have more to add..
+8. Share this repo with your friends if you find this useful..contribute if you have more to add.
+
 ### Shell scripts to automate installations:
 1. Installing drivers
 2. Download the most essential software packages and dependencies on the system after installation.
