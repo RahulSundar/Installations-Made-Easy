@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Installations Made Easy
 
-You can use the [editor on GitHub](https://github.com/RahulSundar/Installations-Made-Easy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This repository is for those who face barriers to entry when migrating to Linux based environments for the first time and also for those who wish to automate most of their crucial installations.
+The motivation behind such a migration could be:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. "Linux is the best!"
+2. "I have to run some softwares which run better on linux based environments"
+3. "I want to code and do that better..."
+....
+And so on..
 
-### Markdown
+As a beginner, I had my own issues migrating to the linux environment. However, I had some guardian angels help ease the pain in learning and migrating to linux.
+So through this repository I plan to return that favour to many of you, who are first timers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Migrating to a linux environment typically involved the following stages for me:
 
-```markdown
-Syntax highlighted code block
+1. Dual booting OS - "To dual boot or not to?" 
+2. Installation of drivers
+3. Dependencies and essential packages download
+4. Virtual Environments
+5. Software/Package installations:
+  5.1. Machine learning based packages
+  5.2. Computational Mechanics based packages
+6. Installation of IDEs
+7. Learning to code and understand code and the linux environment better...
+8. A burning desire to ease the pain of others in their learning process
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Contents:
+### Easy to follow instructions:
+1. Easy to follow instructions and links to trustworthy websites for linux OS installation
+(Focussing mainly on Ubuntu for now. Later, shall cover other distributions as well)
+6. Choosing the right IDE
+7. Learning to code and understand code better
+8. Share this repo with your friends if you find this useful..contribute if you have more to add..
+### Shell scripts to automate installations:
+1. Installing drivers
+2. Download the most essential software packages and dependencies on the system after installation.
+3. Set up crucial virtual environments for various needs of yours(Julia, Python, ROOT, etc)
+4. Installing various softwares/ packages for scientific computing
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RahulSundar/Installations-Made-Easy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To contact me regarding any installation issue, please feel free to open a github issue on this repo! 
